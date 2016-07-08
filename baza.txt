@@ -1,0 +1,54 @@
+Zadanie testowe1
+test
+Dodane
+10
+Zadanie Zwykle
+null
+Zadanie testowe2
+test2
+Dodane
+5
+Zadanie Zwykle
+null
+Testowe3
+test3
+Wykonane
+21
+Zadanie Zwykle
+07.08.2016
+Cykliczne1
+testC
+Dodane
+3
+Zadanie Cykliczne
+Tydzien
+Cykliczne2
+testC2
+Anulowane
+2
+Zadanie Cykliczne
+2 dni
+Cykliczne3
+testC3
+Dodane
+8
+Zadanie Cykliczne
+2 tygodnie
+Testowe Deadline1
+testD
+Dodane
+7
+Zadanie Z Deadlinem
+07.08.2016
+Testowe Deadline2
+testD1
+Dodane
+56
+Zadanie Z Deadlinem
+01.01.2020
+Testowe Deadline3
+testD3
+Wykonane
+77
+Zadanie Z Deadlinem
+04.08.1998
